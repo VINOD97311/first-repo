@@ -1,2 +1,2 @@
 # first-repo
-looking for first time
+mini project
